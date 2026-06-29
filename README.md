@@ -411,7 +411,7 @@ The generated image is automatically saved in the current working directory.
 
 # Author
 
-**Nagesh Jakkavarapu**
+**Radha Devi**
 
 Built as a Generative AI portfolio project using Stable Diffusion XL Turbo and Hugging Face Diffusers.
 
